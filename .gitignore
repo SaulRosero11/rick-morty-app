@@ -39,3 +39,10 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+.agent
+.claude
+openspec
+inspiration
+AGENTS.md
+CLAUDE.md
